@@ -1,0 +1,69 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add" : {
+      "comment" : "Button title when done creating a new journal entry"
+    },
+    "Adds a mood entry to the journal." : {
+
+    },
+    "All Done." : {
+
+    },
+    "AppIntentsJournal" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Compose Journal Entry" : {
+
+    },
+    "Done" : {
+      "comment" : "Button title when done editing journal entry"
+    },
+    "Edit" : {
+      "comment" : "Button title to edit journal entry"
+    },
+    "Edit Journal Entry" : {
+      "comment" : "Navigation title when editing a journal entry"
+    },
+    "How are you feeling today?" : {
+
+    },
+    "I created a new journal entry for you." : {
+
+    },
+    "Journal Entry" : {
+
+    },
+    "Keep track of your developer mindset.\nAdd a new entry to get started." : {
+
+    },
+    "Mood Check-In" : {
+
+    },
+    "New Journal Entry" : {
+      "comment" : "Navigation title when creating a new journal entry"
+    },
+    "Open Journal Entry" : {
+
+    },
+    "Opens the app and starts composing a new journal entry." : {
+
+    },
+    "Shows the details for a specific journal entry." : {
+
+    },
+    "Start journaling" : {
+
+    },
+    "State of Mind" : {
+
+    },
+    "Title" : {
+
+    }
+  },
+  "version" : "1.0"
+}
